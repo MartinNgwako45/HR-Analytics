@@ -4,6 +4,16 @@
 
 In this project we analyze the number of employees that are active and inactive, avearage age of employees from both genders respectfully, Look at the attrition rate using qualifications
 
+## Table Of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources) 
+- [Tools](#tools)
+- [Data Prearation](#data-cleaning-prepation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results/Findings](#resulsts/findings)
+- [Recommendations ](#recommendations)
+- [Reference](#reference)
+
 ### Data Source
 
 HR Data: The primary datasset that was used in this project is the "HR Data.xlxs" file, contining detailed information about each employee in the company
