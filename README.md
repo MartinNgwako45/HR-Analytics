@@ -16,7 +16,7 @@ In this project we analyze the number of employees that are active and inactive,
 
 ### Data Source
 
-HR Data: The primary datasset that was used in this project is the "HR Data.xlxs" file, contining detailed information about each employee in the company
+HR Data: The primary datasset that was used in this project is the "HR Data.pbix" file, contining detailed information about each employee in the company
 
 ### Tools 
 - Power BI - Creating Report
