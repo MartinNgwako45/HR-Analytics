@@ -4,13 +4,16 @@
 
 In this project we analyze the number of employees that are active and inactive, avearage age of employees from both genders respectfully, Look at the attrition rate using qualifications
 
+![Dashboard report](https://github.com/user-attachments/assets/a162d764-e05e-4b05-901d-93ecd89560b8)
+
+
 ## Table Of Content
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources) 
 - [Tools](#tools)
 - [Data Prearation](#data-cleaning-prepation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results/Findings](#resulsts/findings)
+- [Results](#results)
 - [Recommendations ](#recommendations)
 - [Reference](#reference)
 
